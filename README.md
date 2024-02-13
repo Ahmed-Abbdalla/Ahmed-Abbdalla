@@ -5,5 +5,4 @@
 - 💬 Ask me about my experience with JAVASCRIPT,HTML, and CSS, or anything related to web development.
 - ⚡ Fun Fact: I'm a video game enthusiast and my perfect day would start and end with a cup of coffee.
   
-Connect with Me:
-[Facebook](https://www.facebook.com/ahmed.abbdalla)
+
