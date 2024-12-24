@@ -1,4 +1,5 @@
-# Welcome to Ahmed Mohamed Abdalla's profile! 👋🏼
+
+# Hi, I'm Ahmed !👋🏼
 
 - 🏢 I'm Telecommuncation Engineer and Software Developer 
 - 👨‍💻 As a Engineer , I'm constantly learning and exploring new technologies to improve my skills.
