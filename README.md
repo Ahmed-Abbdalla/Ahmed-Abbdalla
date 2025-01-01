@@ -1,4 +1,4 @@
-<a align="right" href="https://komarev.com/ghpvc/?username=Ahmed-Abbdalla&style=for-the-badge">
+<a align="left" href="https://komarev.com/ghpvc/?username=Ahmed-Abbdalla&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Ahmed-Abbdallagham&style=for-the-badge">
 </a>
 
